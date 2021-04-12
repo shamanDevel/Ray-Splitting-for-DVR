@@ -1,0 +1,104 @@
+{
+    "camera": {
+        "currentPitch": 54.0,
+        "currentYaw": 171.0,
+        "fov": 45.0,
+        "lookAt": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "orientation": 5,
+        "rotateSpeed": 0.5,
+        "zoomSpeed": 1.100000023841858,
+        "zoomValue": -2.0
+    },
+    "dataset": {
+        "file": "",
+        "filterMode": 0,
+        "mipmap": 0
+    },
+    "renderMode": 1,
+    "renderer": {
+        "aoRadius": 0.1,
+        "aoSamples": 0,
+        "binarySearchSteps": 5,
+        "filterMode": 0,
+        "isovalue": 0.5,
+        "stepsize": 0.08559
+    },
+    "shading": {
+        "ambientLight": [
+            0.10000000149011612,
+            0.10000000149011612,
+            0.10000000149011612
+        ],
+        "aoStrength": 0.5,
+        "channel": 5,
+        "diffuseLight": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929
+        ],
+        "flowWithInpainting": true,
+        "lightDirection": [
+            0.0,
+            0.0,
+            1.0
+        ],
+        "materialColor": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "specularExponent": 16.0,
+        "specularLight": [
+            0.10000000149011612,
+            0.10000000149011612,
+            0.10000000149011612
+        ],
+        "temporalSmoothing": 0
+    },
+    "tfEditor": {
+        "dvrUseShading": false,
+        "editor": {
+            "colorAxis": [
+                [
+                    53.24079895019531,
+                    80.09236907958984,
+                    67.2032241821289
+                ],
+                [
+                    35.14658737182617,
+                    70.45575714111328,
+                    -103.09831237792969
+                ],
+                [
+                    100.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "densityAxisColor": [
+                0.41111111640930176,
+                0.49259260296821594,
+                0.5740740895271301
+            ],
+            "densityAxisOpacity": [
+                0.44999998807907104,
+                0.5,
+                0.550000011920929
+            ],
+            "opacityAxis": [
+                0.0,
+                0.800000011920929,
+                0.0
+            ]
+        },
+        "maxDensity": 1.0,
+        "minDensity": 0.0004820164176635444,
+        "opacityScaling": 197.9739990234375,
+        "showColorControlPoints": true
+    },
+    "version": 1
+}

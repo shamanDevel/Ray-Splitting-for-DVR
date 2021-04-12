@@ -1,0 +1,18 @@
+[submodule "third-party/cuMat"]
+	path = third-party/cuMat
+	url = https://gitlab.com/shaman42/cuMat.git
+[submodule "third-party/lodepng"]
+	path = third-party/lodepng
+	url = https://github.com/lvandeve/lodepng.git
+[submodule "third-party/thread-pool"]
+	path = third-party/thread-pool
+	url = https://github.com/mtrebi/thread-pool.git
+[submodule "third-party/portable-file-dialogs"]
+	path = third-party/portable-file-dialogs
+	url = https://github.com/samhocevar/portable-file-dialogs.git
+[submodule "third-party/pybind11"]
+	path = third-party/pybind11
+	url = https://github.com/pybind/pybind11.git
+[submodule "third-party/magic_enum"]
+	path = third-party/magic_enum
+	url = https://github.com/Neargye/magic_enum.git

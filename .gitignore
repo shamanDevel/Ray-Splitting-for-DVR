@@ -1,0 +1,5 @@
+bin/
+build/
+/python-train/Training.pyproj
+*.pyc
+.ipynb_checkpoints/
