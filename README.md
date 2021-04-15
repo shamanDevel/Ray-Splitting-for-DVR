@@ -36,3 +36,7 @@ See the releases for compiled binaries.
  - OpenGL with GLFW and GLM
 
 Tested with CUDA 11.0 (device architecture 7.5), Windows 10, Visual Studio 2019
+
+## Video
+
+[![](http://img.youtube.com/vi/bOLqIJd6dsw/0.jpg)](http://www.youtube.com/watch?v=bOLqIJd6dsw "")
